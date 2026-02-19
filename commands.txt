@@ -1,0 +1,29 @@
+git --version
+
+git clone https://github.com/sbalaji-code/learning.git
+
+cd learning 
+
+git config --global user.email "bs.gcp.free@gmail.com"
+
+git config --global user.name "sbalaji-code"
+
+git branch mybranch
+
+git branch --all
+
+git checkout mybranch
+
+code .   (update readme file using vscode)
+
+ls
+
+git commit --m 'added line to readme file'
+
+git add README.md 
+
+git commit --m 'added second line to readme file'
+
+git push --set-upstream origin mybranch    
+
+new command
