@@ -26,3 +26,4 @@ git commit --m 'added second line to readme file'
 
 git push --set-upstream origin mybranch    
 
+new command
